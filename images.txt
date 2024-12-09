@@ -21,8 +21,6 @@ nacos/nacos-server:v2.2.3
 nacos/nacos-server:v1.4.6
 nacos/nacos-server:v1.4.3
 
-apache/seata-server:2.1.0
-
 elasticsearch:8.14.3
 kibana:8.14.3
 logstash:8.14.3
@@ -109,13 +107,11 @@ apache/skywalking-ui:8.6.0
 apache/skywalking-oap-server:8.6.0-es7
 apache/skywalking-oap-server:8.7.0-es6
 
-
-pig4cloud/xxl-job:2.4.0
-chinayin/xxl-job-executor-springboot:2.4
-chinayin/xxl-job-executor-springboot:2.3.1
-
-huxiansheng/xxl-job:v10
-huxiansheng/xxl-job:v9
+xuxueli/xxl-job-admin:2.4.2
+xuxueli/xxl-job-admin:2.4.0
+xuxueli/xxl-job-admin:2.3.0
+xuxueli/xxl-job-admin:2.2.0
+xuxueli/xxl-job-admin:2.0.2
 
 bladex/sentinel-dashboard:1.8.4
 bladex/sentinel-dashboard:1.8.0
