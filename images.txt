@@ -69,8 +69,6 @@ portainer/portainer-ce:2.20.3
 portainer/portainer-ce:2.20.2
 portainer/portainer-ce:2.19.3
 
-zhangxianmin/sentienl:v1.8.1
-
 nginx:1.27.0
 nginx:1.26.1
 
