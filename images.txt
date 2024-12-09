@@ -116,3 +116,8 @@ chinayin/xxl-job-executor-springboot:2.3.1
 
 huxiansheng/xxl-job:v10
 huxiansheng/xxl-job:v9
+
+docker pull bladex/sentinel-dashboard:1.8.4
+docker pull bladex/sentinel-dashboard:1.8.0
+docker pull bladex/sentinel-dashboard:1.7.2
+docker pull bladex/sentinel-dashboard:1.4.2
